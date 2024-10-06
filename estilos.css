@@ -1,0 +1,48 @@
+body {
+    padding: 20px;
+    background-color: white;
+    color: gray;
+}
+
+header {
+    background-color: rgb(24, 138, 244);
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+main {
+    background-color: ghostwhite;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+    background-color: white;
+}
+
+h2 {
+    color: #000FBB;
+}
+
+h4 {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    color: black;
+    padding-top: 20px;
+    
+}
+
+h5 {
+    color: black;
+}
+
+p {
+    color: #000FBB;
+}
